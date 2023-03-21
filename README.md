@@ -43,7 +43,7 @@ AVD Details :
 
 
 
-Done with the alet Notification💥
+Done with the alert Notification💥
 
 
 If you still have any doubts comment section is always open :)
