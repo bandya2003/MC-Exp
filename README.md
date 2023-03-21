@@ -8,7 +8,7 @@ Either fork the repo and try to run it
 
 1) Create an app with empty activity in Andoid Studio.
    
-      **Select andriod 4.0.0 as Minimum suppot while creating the app.**
+      **Select andriod 4.0.0 as Minimum support while creating the app.**
 
 2) Copy paste the code I have wrote in the main.java and xml file.
 
