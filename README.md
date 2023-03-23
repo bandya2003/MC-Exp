@@ -22,6 +22,10 @@ Either fork the repo and try to run it
 
 Your app would keep crashing until and unless you have an Icon for the notifs.
 
+You can downlaod any icon image witha 480*480 p resolution and paste it in the folder. 
+
+
+
 ### 4) Some Imp Conditions to maintain to run the app :
           
       Select Emulator device as  : Pixel 2 (5.0 1080x1920)
